@@ -867,6 +867,11 @@ h6 {
     color: #545454;
   }
 
+  .pseudo {
+    padding-top: 40px;
+    height: 80px;
+  }
+
   .map__main {
     width: 90%;
     margin-right: auto;
